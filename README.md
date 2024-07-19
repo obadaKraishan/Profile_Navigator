@@ -10,10 +10,10 @@ A Flutter application featuring a custom drawer with user profile information, s
 
 ## 📸 Screenshots
 ### Dark Drawer
-<img src="screenshots/dark.png" width="300">
+<img src="screenshots/dark.png" width="200">
 
 ### Light Drawer
-<img src="screenshots/light.png" width="300">
+<img src="screenshots/light.png" width="200">
 
 ## 🛠️ Technologies Used
 - **Frontend**: Flutter, Dart
