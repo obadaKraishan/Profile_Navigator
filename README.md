@@ -10,8 +10,8 @@ A Flutter application featuring a custom drawer with user profile information, s
 
 ## 📸 Screenshots
 <p>
-<img src="screenshots/dark.png" width="250">
-<img src="screenshots/light.png" width="250">
+<img src="screenshots/dark.png" width="300">
+<img src="screenshots/light.png" width="300">
 </p>
 
 ## 🛠️ Technologies Used
@@ -24,8 +24,8 @@ Follow these steps to set up the project locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/obadaKraishan/ProfileNavigator.git
-cd ProfileNavigator
+git clone https://github.com/obadaKraishan/Profile_Navigator.git
+cd Profile_Navigator
 ```
 
 ### 2. Install Dependencies
